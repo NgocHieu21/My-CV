@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bf61522.css",
-    "main.js": "/static/js/main.c4df607a.js",
-    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
-    "static/media/MyApp.mp4": "/static/media/MyApp.d1902e0b11c9373b2f76.mp4",
-    "static/media/ava.jpg": "/static/media/ava.105b3b03ee779acd8b5c.jpg",
-    "static/media/Login.png": "/static/media/Login.138400dcdea0d90098e7.png",
-    "static/media/ava.jgp.jpg": "/static/media/ava.jgp.5e81ded4f22309795a8f.jpg",
-    "static/media/Vu Ngoc Hieu.pdf": "/static/media/Vu Ngoc Hieu.4390d7d3104425b150ae.pdf",
-    "static/media/IceCream.png": "/static/media/IceCream.fce88fe205d135f2e35c.png",
-    "index.html": "/index.html",
-    "main.2bf61522.css.map": "/static/css/main.2bf61522.css.map",
-    "main.c4df607a.js.map": "/static/js/main.c4df607a.js.map",
-    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/My-CV/static/css/main.86f921bf.css",
+    "main.js": "/My-CV/static/js/main.f42a9472.js",
+    "static/js/453.ed3810f9.chunk.js": "/My-CV/static/js/453.ed3810f9.chunk.js",
+    "static/media/MyApp.mp4": "/My-CV/static/media/MyApp.d1902e0b11c9373b2f76.mp4",
+    "static/media/ava.jpg": "/My-CV/static/media/ava.105b3b03ee779acd8b5c.jpg",
+    "static/media/Login.png": "/My-CV/static/media/Login.138400dcdea0d90098e7.png",
+    "static/media/ava.jgp.jpg": "/My-CV/static/media/ava.jgp.5e81ded4f22309795a8f.jpg",
+    "static/media/Vu Ngoc Hieu.pdf": "/My-CV/static/media/Vu Ngoc Hieu.4390d7d3104425b150ae.pdf",
+    "static/media/IceCream.png": "/My-CV/static/media/IceCream.fce88fe205d135f2e35c.png",
+    "index.html": "/My-CV/index.html",
+    "main.86f921bf.css.map": "/My-CV/static/css/main.86f921bf.css.map",
+    "main.f42a9472.js.map": "/My-CV/static/js/main.f42a9472.js.map",
+    "453.ed3810f9.chunk.js.map": "/My-CV/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bf61522.css",
-    "static/js/main.c4df607a.js"
+    "static/css/main.86f921bf.css",
+    "static/js/main.f42a9472.js"
   ]
 }
